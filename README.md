@@ -7,11 +7,13 @@ Display the city's name, region, and country
 Show local time and current temperature in Celsius
 Built using an API from WeatherAPI
 <br>
+
 Technologies Used
 HTML/CSS: For the structure and styling of the app.
 JavaScript: For fetching weather data and updating the DOM.
 WeatherAPI: To retrieve real-time weather information.
 <br>
+
 Usage
 Enter the name of any city in the input box.
 Click the "Search" button to retrieve the city's current weather data.

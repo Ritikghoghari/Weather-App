@@ -2,16 +2,18 @@
 This is a simple weather application that allows users to search for the current weather conditions of any city worldwide. The app displays the city name, local time, and temperature.
 
 Features
-Search for current weather by city name
-Display the city's name, region, and country
-Show local time and current temperature in Celsius
-Built using an API from WeatherAPI
+1. Search for current weather by city name
+2. Display the city's name, region, and country
+3. Show local time and current temperature in Celsius
+4. Built using an API from WeatherAPI
 <br>
 
 Technologies Used
+<br>
 HTML/CSS: For the structure and styling of the app.
 JavaScript: For fetching weather data and updating the DOM.
 WeatherAPI: To retrieve real-time weather information.
+
 <br>
 
 Usage

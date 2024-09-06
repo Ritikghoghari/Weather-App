@@ -19,13 +19,13 @@ WeatherAPI: To retrieve real-time weather information.
 <br>
 
 Usage
-<br>
 1. Enter the name of any city in the input box.
 <br>
 2. Click the "Search" button to retrieve the city's current weather data.
-   <br>
+<br>
 3. The app will display the city name, local time, and temperature.
 <br>
+
 Contributing
 Contributions are welcome! If you’d like to contribute to this project:
 1. Fork the repository.

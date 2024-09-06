@@ -11,7 +11,9 @@ Features
 Technologies Used
 <br>
 HTML/CSS: For the structure and styling of the app.
+<br>
 JavaScript: For fetching weather data and updating the DOM.
+<br>
 WeatherAPI: To retrieve real-time weather information.
 
 <br>

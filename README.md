@@ -7,7 +7,6 @@ Features
 3. Show local time and current temperature in Celsius
 4. Built using an API from WeatherAPI
 <br>
-
 Technologies Used
 <br>
 HTML/CSS: For the structure and styling of the app.
@@ -15,9 +14,7 @@ HTML/CSS: For the structure and styling of the app.
 JavaScript: For fetching weather data and updating the DOM.
 <br>
 WeatherAPI: To retrieve real-time weather information.
-
 <br>
-
 Usage
 1. Enter the name of any city in the input box.
 <br>
@@ -25,7 +22,6 @@ Usage
 <br>
 3. The app will display the city name, local time, and temperature.
 <br>
-
 Contributing
 Contributions are welcome! If you’d like to contribute to this project:
 1. Fork the repository.

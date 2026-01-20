@@ -1,34 +1,51 @@
-# Weather-App
-This is a simple weather application that allows users to search for the current weather conditions of any city worldwide. The app displays the city name, local time, and temperature.
+# ⛅ Weather App
 
-Features
-1. Search for current weather by city name
-2. Display the city's name, region, and country
-3. Show local time and current temperature in Celsius
-4. Built using an API from WeatherAPI
-<br>
-Technologies Used
-<br>
-HTML/CSS: For the structure and styling of the app.
-<br>
-JavaScript: For fetching weather data and updating the DOM.
-<br>
-WeatherAPI: To retrieve real-time weather information.
-<br>
-Usage
-1. Enter the name of any city in the input box.
-<br>
-2. Click the "Search" button to retrieve the city's current weather data.
-<br>
-3. The app will display the city name, local time, and temperature.
-<br>
-Contributing
-Contributions are welcome! If you’d like to contribute to this project:
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Commit your changes (git commit -am 'Add new feature').
-4. Push to the branch (git push origin feature-branch).
-5. Open a pull request.
-<br>
-License
-This project is open source and available under the MIT License.
+A beautiful and minimal Weather Application built with **Streamlit** and the **WeatherAPI**. Get real-time weather updates, temperature, and conditions for any city in the world.
+
+## 🌟 Features
+
+- **Real-time Weather Data**: Fetches the latest weather information.
+- **Detailed Metrics**: Displays temperature, humidity, wind speed, and "feels like" temperature.
+- **Dynamic Icons**: Shows weather conditions with appropriate icons.
+- **Responsive Design**: Clean and modern UI powered by Streamlit.
+
+## 🚀 Live Demo
+
+[Link to your deployed app will go here]
+
+## 🛠️ Installation & Running Locally
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Ritikghoghari/Weather-App.git
+    cd Weather-App
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Run the app:**
+    ```bash
+    streamlit run app.py
+    ```
+
+## 📦 Deployment
+
+This app is ready to be deployed on **Streamlit Cloud**:
+
+1.  Push this code to your GitHub repository.
+2.  Go to [share.streamlit.io](https://share.streamlit.io/).
+3.  Connect your GitHub account.
+4.  Select the repository (`Weather-App`) and the main file (`app.py`).
+5.  Click **Deploy**!
+
+## 💻 Technologies Used
+
+- **Python**: Core logic.
+- **Streamlit**: Frontend UI and app framework.
+- **WeatherAPI**: Data provider for weather information.
+
+---
+*Created by [Ritik Ghoghari](https://github.com/Ritikghoghari)*
